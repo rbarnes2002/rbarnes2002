@@ -1,8 +1,8 @@
 <h1>Hello, I'm Ryan/Riley Barnes!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Current Projects:</h2>
 
-To be added 
+INSGC Space Grant Research
 
 <h2>📺 Popular YouTube Videos</h2>
 
