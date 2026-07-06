@@ -4,7 +4,7 @@
 
 INSGC Space Grant Research
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Completed Projects</h2>
 
 To be added
 
