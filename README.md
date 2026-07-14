@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ryan/Riley Barnes!</h1>
+<h1>Hello, I'm Ryan Barnes!</h1>
 
 <h2>👨‍💻 Current Projects:</h2>
 
